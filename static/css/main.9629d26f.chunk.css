@@ -1,0 +1,2 @@
+iframe{display:none}html{font-family:Arial,"Helvetica Neue",Helvetica,sans-serif}.UserInfo{font-style:italic}.TodoInfo{grid-column:1;width:-webkit-max-content;width:max-content;padding:8px;margin:12px 0;border:1px solid #000;border-radius:8px;background-color:#faebd7}.TodoInfo__title{margin:4px 0;font-size:inherit;color:red}.TodoInfo--completed{grid-column:3}.TodoInfo--completed .TodoInfo__title{color:#080}.TodoList{display:grid;grid-template-columns:repeat(3,1fr);grid-auto-flow:column}
+/*# sourceMappingURL=main.9629d26f.chunk.css.map */
